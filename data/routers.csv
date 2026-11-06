@@ -1,0 +1,252 @@
+brand,model,slug,default_ip,default_username,default_password,wifi_standard,web_profile
+Netgear,Nighthawk AX6 (RAX50),netgear-nighthawk-rax50,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-rax50/
+Netgear,Nighthawk AX12 (RAX120),netgear-nighthawk-rax120,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-rax120/
+Netgear,Nighthawk Pro Gaming XR1000,netgear-nighthawk-xr1000,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-xr1000/
+Netgear,Nighthawk Pro Gaming XR500,netgear-nighthawk-xr500,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-xr500/
+Netgear,Nighthawk Pro Gaming XR700,netgear-nighthawk-xr700,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-xr700/
+Netgear,Nighthawk Pro Gaming XR300,netgear-nighthawk-xr300,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-xr300/
+Netgear,Nighthawk AX4 (RAX40),netgear-nighthawk-rax40,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-rax40/
+Netgear,Nighthawk AX5 (RAX43),netgear-nighthawk-rax43,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-rax43/
+Netgear,Nighthawk AX8 (RAX80),netgear-nighthawk-rax80,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-rax80/
+Netgear,Nighthawk Tri-Band AX12 (RAX200),netgear-nighthawk-rax200,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-rax200/
+Netgear,Nighthawk RS700S,netgear-nighthawk-rs700s,192.168.1.1,admin,password,Wi-Fi 7,https://routeriphub.com/routers/netgear-nighthawk-rs700s/
+Netgear,Nighthawk RS300,netgear-nighthawk-rs300,192.168.1.1,admin,password,Wi-Fi 7,https://routeriphub.com/routers/netgear-nighthawk-rs300/
+Netgear,Nighthawk AC1900 (R7000),netgear-nighthawk-r7000,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-r7000/
+Netgear,Nighthawk AC1750 (R6700),netgear-nighthawk-r6700,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-r6700/
+Netgear,Nighthawk X6 AC3200 (R8000),netgear-nighthawk-r8000,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-r8000/
+Netgear,Nighthawk X8 AC5300 (R8500),netgear-nighthawk-r8500,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-r8500/
+Netgear,Nighthawk X10 AD7200 (R9000),netgear-nighthawk-r9000,192.168.1.1,admin,password,Wi-Fi 5 / 802.11ad,https://routeriphub.com/routers/netgear-nighthawk-r9000/
+Netgear,Nighthawk AC2300 (R7000P),netgear-nighthawk-r7000p,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-nighthawk-r7000p/
+Netgear,Nighthawk AX3000 (RAX35),netgear-nighthawk-rax35,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-nighthawk-rax35/
+Netgear,Orbi Tri-Band WiFi 6 (RBK752),netgear-orbi-rbk752,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-orbi-rbk752/
+Netgear,Orbi WiFi 6 (RBK852),netgear-orbi-rbk852,192.168.1.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/netgear-orbi-rbk852/
+Netgear,Orbi Quad-Band WiFi 6E (RBKE963),netgear-orbi-rbke963,192.168.1.1,admin,password,Wi-Fi 6E,https://routeriphub.com/routers/netgear-orbi-rbke963/
+Netgear,Orbi WiFi 7 (RBE973),netgear-orbi-rbe973,192.168.1.1,admin,password,Wi-Fi 7,https://routeriphub.com/routers/netgear-orbi-rbe973/
+Netgear,Orbi 4G LTE WiFi Router (LBR20),netgear-orbi-lbr20,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-orbi-lbr20/
+Netgear,Netgear AC1200 (R6220),netgear-r6220,192.168.1.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/netgear-r6220/
+TP-Link,Archer AX55 (AX3000),tp-link-archer-ax55,192.168.0.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax55/
+TP-Link,Archer AX73 (AX5400),tp-link-archer-ax73,192.168.0.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax73/
+TP-Link,Archer AX21 (AX1800),tp-link-archer-ax21,192.168.0.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax21/
+TP-Link,Archer AX10 (AX1500),tp-link-archer-ax10,192.168.0.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax10/
+TP-Link,Archer AX20 (AX1800),tp-link-archer-ax20,192.168.0.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax20/
+TP-Link,Archer AX50 (AX3000),tp-link-archer-ax50,192.168.0.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax50/
+TP-Link,Archer AX72 (AX5400),tp-link-archer-ax72,192.168.0.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax72/
+TP-Link,Archer AX90 (AX6600),tp-link-archer-ax90,192.168.0.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax90/
+TP-Link,Archer AX11000,tp-link-archer-ax11000,192.168.0.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-ax11000/
+TP-Link,Archer GX90 (AX6600),tp-link-archer-gx90,192.168.0.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/tp-link-archer-gx90/
+TP-Link,Archer BE550 (BE9300),tp-link-archer-be550,192.168.0.1,admin,admin,Wi-Fi 7,https://routeriphub.com/routers/tp-link-archer-be550/
+TP-Link,Archer BE800 (BE19000),tp-link-archer-be800,192.168.0.1,admin,admin,Wi-Fi 7,https://routeriphub.com/routers/tp-link-archer-be800/
+TP-Link,Archer BE900 (BE24000),tp-link-archer-be900,192.168.0.1,admin,admin,Wi-Fi 7,https://routeriphub.com/routers/tp-link-archer-be900/
+TP-Link,Archer C7 (AC1750),tp-link-archer-c7,192.168.0.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/tp-link-archer-c7/
+TP-Link,Archer A7 (AC1750),tp-link-archer-a7,192.168.0.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/tp-link-archer-a7/
+TP-Link,Archer C6 (AC1200),tp-link-archer-c6,192.168.0.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/tp-link-archer-c6/
+TP-Link,Archer A6 (AC1200),tp-link-archer-a6,192.168.0.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/tp-link-archer-a6/
+TP-Link,Archer C80 (AC1900),tp-link-archer-c80,192.168.0.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/tp-link-archer-c80/
+TP-Link,Archer C2300 (AC2300),tp-link-archer-c2300,192.168.0.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/tp-link-archer-c2300/
+TP-Link,Archer C5400X,tp-link-archer-c5400x,192.168.0.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/tp-link-archer-c5400x/
+TP-Link,Deco X20 (AX1800),tp-link-deco-x20,192.168.68.1,admin,TP-Link ID,Wi-Fi 6,https://routeriphub.com/routers/tp-link-deco-x20/
+TP-Link,Deco X50 (AX3000),tp-link-deco-x50,192.168.68.1,admin,TP-Link ID,Wi-Fi 6,https://routeriphub.com/routers/tp-link-deco-x50/
+TP-Link,Deco X55 (AX3000),tp-link-deco-x55,192.168.68.1,admin,TP-Link ID,Wi-Fi 6,https://routeriphub.com/routers/tp-link-deco-x55/
+TP-Link,Deco X60 (AX5400),tp-link-deco-x60,192.168.68.1,admin,TP-Link ID,Wi-Fi 6,https://routeriphub.com/routers/tp-link-deco-x60/
+TP-Link,Deco XE75 (AXE5400),tp-link-deco-xe75,192.168.68.1,admin,TP-Link ID,Wi-Fi 6E,https://routeriphub.com/routers/tp-link-deco-xe75/
+TP-Link,Deco XE75 Pro (AXE5400),tp-link-deco-xe75-pro,192.168.68.1,admin,TP-Link ID,Wi-Fi 6E,https://routeriphub.com/routers/tp-link-deco-xe75-pro/
+TP-Link,Deco BE85 (BE22000),tp-link-deco-be85,192.168.68.1,admin,TP-Link ID,Wi-Fi 7,https://routeriphub.com/routers/tp-link-deco-be85/
+TP-Link,Deco M4 (AC1200),tp-link-deco-m4,192.168.68.1,admin,TP-Link ID,Wi-Fi 5,https://routeriphub.com/routers/tp-link-deco-m4/
+TP-Link,Deco M5 (AC1300),tp-link-deco-m5,192.168.68.1,admin,TP-Link ID,Wi-Fi 5,https://routeriphub.com/routers/tp-link-deco-m5/
+TP-Link,Omada ER605 (TL-R605),tp-link-omada-er605,192.168.0.1,admin,admin,Gigabit Wired VPN Router,https://routeriphub.com/routers/tp-link-omada-er605/
+ASUS,RT-AX88U (AX6000),asus-rt-ax88u,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax88u/
+ASUS,RT-AX86U (AX5700),asus-rt-ax86u,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax86u/
+ASUS,RT-AX86U Pro (AX5700),asus-rt-ax86u-pro,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax86u-pro/
+ASUS,RT-AX88U Pro (AX6000),asus-rt-ax88u-pro,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax88u-pro/
+ASUS,RT-AX58U (AX3000),asus-rt-ax58u,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax58u/
+ASUS,RT-AX55 (AX1800),asus-rt-ax55,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax55/
+ASUS,RT-AX53U (AX1800),asus-rt-ax53u,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax53u/
+ASUS,RT-AX68U (AX2700),asus-rt-ax68u,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax68u/
+ASUS,RT-AX82U (AX5400),asus-rt-ax82u,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax82u/
+ASUS,RT-AX89X (AX6000),asus-rt-ax89x,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax89x/
+ASUS,RT-AX92U (AX6100),asus-rt-ax92u,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rt-ax92u/
+ASUS,ROG Rapture GT-AX11000,asus-rog-rapture-gt-ax11000,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rog-rapture-gt-ax11000/
+ASUS,ROG Rapture GT-AX11000 Pro,asus-rog-rapture-gt-ax11000-pro,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rog-rapture-gt-ax11000-pro/
+ASUS,ROG Rapture GT-AX6000,asus-rog-rapture-gt-ax6000,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rog-rapture-gt-ax6000/
+ASUS,ROG Rapture GT-AXE11000,asus-rog-rapture-gt-axe11000,192.168.50.1,admin,admin,Wi-Fi 6E,https://routeriphub.com/routers/asus-rog-rapture-gt-axe11000/
+ASUS,ROG Rapture GT-AXE16000,asus-rog-rapture-gt-axe16000,192.168.50.1,admin,admin,Wi-Fi 6E,https://routeriphub.com/routers/asus-rog-rapture-gt-axe16000/
+ASUS,ROG Rapture GT-BE98,asus-rog-rapture-gt-be98,192.168.50.1,admin,admin,Wi-Fi 7,https://routeriphub.com/routers/asus-rog-rapture-gt-be98/
+ASUS,ROG Rapture GT6,asus-rog-rapture-gt6,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-rog-rapture-gt6/
+ASUS,TUF Gaming AX3000,asus-tuf-gaming-ax3000,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-tuf-gaming-ax3000/
+ASUS,TUF Gaming AX4200,asus-tuf-gaming-ax4200,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-tuf-gaming-ax4200/
+ASUS,TUF Gaming AX5400,asus-tuf-gaming-ax5400,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-tuf-gaming-ax5400/
+ASUS,ZenWiFi XT8 (AX6600),asus-zenwifi-xt8,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-zenwifi-xt8/
+ASUS,ZenWiFi XT9 (AX7800),asus-zenwifi-xt9,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-zenwifi-xt9/
+ASUS,ZenWiFi Pro XT12,asus-zenwifi-pro-xt12,192.168.50.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/asus-zenwifi-pro-xt12/
+ASUS,ZenWiFi Pro ET12,asus-zenwifi-pro-et12,192.168.50.1,admin,admin,Wi-Fi 6E,https://routeriphub.com/routers/asus-zenwifi-pro-et12/
+ASUS,ZenWiFi BQ16,asus-zenwifi-bq16,192.168.50.1,admin,admin,Wi-Fi 7,https://routeriphub.com/routers/asus-zenwifi-bq16/
+ASUS,RT-AC68U (AC1900),asus-rt-ac68u,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/asus-rt-ac68u/
+ASUS,RT-AC86U (AC2900),asus-rt-ac86u,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/asus-rt-ac86u/
+Linksys,Velop Micro 6 Mesh (LN1301),linksys-velop-micro-6-mesh-ln1301,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/linksys-velop-micro-6-mesh-ln1301/
+Linksys,Velop Pro 6E (MX6200),linksys-velop-pro-6e-mx6200,192.168.1.1,admin,admin,Wi-Fi 6E,https://routeriphub.com/routers/linksys-velop-pro-6e-mx6200/
+Linksys,Velop Pro 7 (MBE7000),linksys-velop-pro-7-mbe7000,192.168.1.1,admin,admin,Wi-Fi 7,https://routeriphub.com/routers/linksys-velop-pro-7-mbe7000/
+Linksys,Atlas Pro 6 (MX5500),linksys-atlas-pro-6-mx5500,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/linksys-atlas-pro-6-mx5500/
+Linksys,Atlas Max 6E (MX8500),linksys-atlas-max-6e-mx8500,192.168.1.1,admin,admin,Wi-Fi 6E,https://routeriphub.com/routers/linksys-atlas-max-6e-mx8500/
+Linksys,Velop AX4200 (MX4200),linksys-velop-ax4200-mx4200,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/linksys-velop-ax4200-mx4200/
+Linksys,Velop AX5300 (MX5300),linksys-velop-ax5300-mx5300,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/linksys-velop-ax5300-mx5300/
+Linksys,Velop Tri-Band (WHW0303),linksys-velop-whw0303,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-velop-whw0303/
+Linksys,Hydra Pro 6E (MR7500),linksys-hydra-pro-6e-mr7500,192.168.1.1,admin,admin,Wi-Fi 6E,https://routeriphub.com/routers/linksys-hydra-pro-6e-mr7500/
+Linksys,Hydra 6 (MR2000),linksys-hydra-6-mr2000,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/linksys-hydra-6-mr2000/
+Linksys,Max-Stream MR9600,linksys-mr9600,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/linksys-mr9600/
+Linksys,Max-Stream MR9000,linksys-mr9000,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-mr9000/
+Linksys,Max-Stream MR8300,linksys-mr8300,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-mr8300/
+Linksys,Max-Stream MR7350,linksys-mr7350,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/linksys-mr7350/
+Linksys,Classic WRT54G,linksys-wrt54g,192.168.1.1,admin,admin,802.11g,https://routeriphub.com/routers/linksys-wrt54g/
+Linksys,WRT1900ACS,linksys-wrt1900acs,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-wrt1900acs/
+Linksys,WRT3200ACM,linksys-wrt3200acm,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-wrt3200acm/
+Linksys,WRT32X,linksys-wrt32x,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-wrt32x/
+Linksys,Max-Stream EA7500,linksys-ea7500,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-ea7500/
+Linksys,Max-Stream EA8300,linksys-ea8300,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/linksys-ea8300/
+Ubiquiti,UniFi Dream Machine Pro (UDM-Pro),ubiquiti-unifi-dream-machine-pro,192.168.1.1,admin,UI Account / root,10G SFP+ Enterprise Router,https://routeriphub.com/routers/ubiquiti-unifi-dream-machine-pro/
+Ubiquiti,UniFi Dream Machine Special Edition (UDM-SE),ubiquiti-unifi-dream-machine-se,192.168.1.1,admin,UI Account / root,10G SFP+ Enterprise Router with PoE,https://routeriphub.com/routers/ubiquiti-unifi-dream-machine-se/
+Ubiquiti,UniFi Dream Machine (UDM),ubiquiti-unifi-dream-machine,192.168.1.1,admin,UI Account / root,Wi-Fi 5,https://routeriphub.com/routers/ubiquiti-unifi-dream-machine/
+Ubiquiti,UniFi Dream Router (UDR),ubiquiti-unifi-dream-router,192.168.1.1,admin,UI Account / root,Wi-Fi 6,https://routeriphub.com/routers/ubiquiti-unifi-dream-router/
+Ubiquiti,UniFi Cloud Gateway Ultra (UCG-Ultra),ubiquiti-unifi-cloud-gateway-ultra,192.168.1.1,admin,UI Account / root,Multi-WAN 2.5G Gigabit Router,https://routeriphub.com/routers/ubiquiti-unifi-cloud-gateway-ultra/
+Ubiquiti,UniFi Cloud Gateway Max (UCG-Max),ubiquiti-unifi-cloud-gateway-max,192.168.1.1,admin,UI Account / root,Full 2.5GbE Gateway with NVMe Storage,https://routeriphub.com/routers/ubiquiti-unifi-cloud-gateway-max/
+Ubiquiti,UniFi Express (UX),ubiquiti-unifi-express,192.168.1.1,admin,UI Account / root,Wi-Fi 6 Cloud Gateway,https://routeriphub.com/routers/ubiquiti-unifi-express/
+Ubiquiti,UniFi Security Gateway (USG-3P),ubiquiti-unifi-security-gateway,192.168.1.1,admin,ubnt,Gigabit Security Gateway,https://routeriphub.com/routers/ubiquiti-unifi-security-gateway/
+Ubiquiti,UniFi Security Gateway Pro (USG-PRO-4),ubiquiti-unifi-security-gateway-pro,192.168.1.1,admin,ubnt,Gigabit Enterprise SFP Gateway,https://routeriphub.com/routers/ubiquiti-unifi-security-gateway-pro/
+Ubiquiti,UniFi Dream Wall (UDW),ubiquiti-unifi-dream-wall,192.168.1.1,admin,UI Account / root,Wi-Fi 6 Wall-Mount Enterprise,https://routeriphub.com/routers/ubiquiti-unifi-dream-wall/
+Ubiquiti,EdgeRouter X (ER-X),ubiquiti-edgerouter-x,192.168.1.1,admin,ubnt,Gigabit EdgeOS Router,https://routeriphub.com/routers/ubiquiti-edgerouter-x/
+Ubiquiti,EdgeRouter X SFP (ER-X-SFP),ubiquiti-edgerouter-x-sfp,192.168.1.1,admin,ubnt,Gigabit PoE EdgeOS Router,https://routeriphub.com/routers/ubiquiti-edgerouter-x-sfp/
+Ubiquiti,EdgeRouter 4 (ER-4),ubiquiti-edgerouter-4,192.168.1.1,admin,ubnt,High-Performance EdgeOS Router,https://routeriphub.com/routers/ubiquiti-edgerouter-4/
+Ubiquiti,EdgeRouter 6P (ER-6P),ubiquiti-edgerouter-6p,192.168.1.1,admin,ubnt,Gigabit EdgeOS Router,https://routeriphub.com/routers/ubiquiti-edgerouter-6p/
+Ubiquiti,EdgeRouter 12 (ER-12),ubiquiti-edgerouter-12,192.168.1.1,admin,ubnt,10-Port Gigabit Enterprise Router,https://routeriphub.com/routers/ubiquiti-edgerouter-12/
+Ubiquiti,EdgeRouter Infinity (ER-8-XG),ubiquiti-edgerouter-infinity,192.168.1.1,admin,ubnt,8-Port 10G SFP+ Core Router,https://routeriphub.com/routers/ubiquiti-edgerouter-infinity/
+Ubiquiti,AmpliFi Alien (AFi-ALN),ubiquiti-amplifi-alien,192.168.112.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/ubiquiti-amplifi-alien/
+Ubiquiti,AmpliFi HD (AFi-R),ubiquiti-amplifi-hd,192.168.112.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/ubiquiti-amplifi-hd/
+MikroTik,hEX (RB750Gr3),mikrotik-hex-rb750gr3,192.168.88.1,admin,[empty],Gigabit RouterOS v7 Router,https://routeriphub.com/routers/mikrotik-hex-rb750gr3/
+MikroTik,hEX S (RB760iGS),mikrotik-hex-s-rb760igs,192.168.88.1,admin,[empty],Gigabit RouterOS with SFP,https://routeriphub.com/routers/mikrotik-hex-s-rb760igs/
+MikroTik,hEX PoE (RB960PGS),mikrotik-hex-poe-rb960pgs,192.168.88.1,admin,[empty],Gigabit PoE RouterOS,https://routeriphub.com/routers/mikrotik-hex-poe-rb960pgs/
+MikroTik,hAP ax2 (C52iG-5HaxD2HaxD-TC),mikrotik-hap-ax2,192.168.88.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/mikrotik-hap-ax2/
+MikroTik,hAP ax3 (C53UiG+5HPaxD2HPaxD),mikrotik-hap-ax3,192.168.88.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/mikrotik-hap-ax3/
+MikroTik,hAP ac2 (RBD52G-5HacD2HnD-TC),mikrotik-hap-ac2,192.168.88.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/mikrotik-hap-ac2/
+MikroTik,hAP ac3 (RBD53iG-5HacD2HnD),mikrotik-hap-ac3,192.168.88.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/mikrotik-hap-ac3/
+MikroTik,hAP lite (RB941-2nD),mikrotik-hap-lite,192.168.88.1,admin,[empty],802.11b/g/n,https://routeriphub.com/routers/mikrotik-hap-lite/
+MikroTik,RB4011iGS+5HacQ2HnD-IN,mikrotik-rb4011,192.168.88.1,admin,[empty],Wi-Fi 5 + 10G SFP+ Core,https://routeriphub.com/routers/mikrotik-rb4011/
+MikroTik,RB5009UG+S+IN,mikrotik-rb5009,192.168.88.1,admin,[empty],Multi-Gig 1G/2.5G/10G RouterOS,https://routeriphub.com/routers/mikrotik-rb5009/
+MikroTik,L009UiGS-2HaxD-IN,mikrotik-l009uigs,192.168.88.1,admin,[empty],Wi-Fi 6,https://routeriphub.com/routers/mikrotik-l009uigs/
+MikroTik,CCR2004-16G-2S+,mikrotik-ccr2004,192.168.88.1,admin,[empty],16-Port Gigabit + Dual 10G SFP+,https://routeriphub.com/routers/mikrotik-ccr2004/
+MikroTik,Chateau 5G ax,mikrotik-chateau-5g-ax,192.168.88.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/mikrotik-chateau-5g-ax/
+MikroTik,Chateau LTE12,mikrotik-chateau-lte12,192.168.88.1,admin,Unique sticker password,Wi-Fi 5,https://routeriphub.com/routers/mikrotik-chateau-lte12/
+MikroTik,Cloud Router Switch (CRS305-1G-4S+IN),mikrotik-crs305,192.168.88.1,admin,[empty],4x 10Gbps SFP+ Dual Boot RouterOS,https://routeriphub.com/routers/mikrotik-crs305/
+MikroTik,RouterBOARD 3011UiAS-RM,mikrotik-rb3011,192.168.88.1,admin,[empty],1U Rackmount RouterOS with LCD,https://routeriphub.com/routers/mikrotik-rb3011/
+D-Link,EAGLE PRO AI AX1500 (R15),d-link-eagle-pro-ai-r15,192.168.0.1,admin,[empty or sticker password],Wi-Fi 6,https://routeriphub.com/routers/d-link-eagle-pro-ai-r15/
+D-Link,EAGLE PRO AI AX3200 (R32),d-link-eagle-pro-ai-r32,192.168.0.1,admin,[empty or sticker password],Wi-Fi 6,https://routeriphub.com/routers/d-link-eagle-pro-ai-r32/
+D-Link,EXO AX5400 (DIR-X5460),d-link-exo-dir-x5460,192.168.0.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/d-link-exo-dir-x5460/
+D-Link,EXO AX1800 (DIR-X1860),d-link-exo-dir-x1860,192.168.0.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/d-link-exo-dir-x1860/
+D-Link,EXO AX1500 (DIR-X1560),d-link-exo-dir-x1560,192.168.0.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/d-link-exo-dir-x1560/
+D-Link,DIR-882 (AC2600),d-link-dir-882,192.168.0.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/d-link-dir-882/
+D-Link,DIR-878 (AC1900),d-link-dir-878,192.168.0.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/d-link-dir-878/
+D-Link,DIR-867 (AC1750),d-link-dir-867,192.168.0.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/d-link-dir-867/
+D-Link,DIR-842 (AC1200),d-link-dir-842,192.168.0.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/d-link-dir-842/
+D-Link,DIR-825 (AC1200),d-link-dir-825,192.168.0.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/d-link-dir-825/
+D-Link,DIR-615,d-link-dir-615,192.168.0.1,admin,[empty],802.11n,https://routeriphub.com/routers/d-link-dir-615/
+D-Link,DIR-600,d-link-dir-600,192.168.0.1,admin,[empty],802.11n,https://routeriphub.com/routers/d-link-dir-600/
+D-Link,DIR-850L,d-link-dir-850l,192.168.0.1,admin,[empty],Wi-Fi 5,https://routeriphub.com/routers/d-link-dir-850l/
+D-Link,COVR AX1800 (COVR-X1870),d-link-covr-x1870,192.168.0.1,admin,Sticker password,Wi-Fi 6,https://routeriphub.com/routers/d-link-covr-x1870/
+D-Link,COVR AC1200 (COVR-1100),d-link-covr-1100,192.168.0.1,admin,Sticker password,Wi-Fi 5,https://routeriphub.com/routers/d-link-covr-1100/
+D-Link,DWR-960,d-link-dwr-960,192.168.0.1,admin,admin,Wi-Fi 5 + LTE Cat 7,https://routeriphub.com/routers/d-link-dwr-960/
+Cisco,Cisco Business RV340,cisco-business-rv340,192.168.1.1,admin,cisco,Dual WAN Gigabit Security Gateway,https://routeriphub.com/routers/cisco-business-rv340/
+Cisco,Cisco Business RV345,cisco-business-rv345,192.168.1.1,admin,cisco,Dual WAN 16-Port Gigabit Gateway,https://routeriphub.com/routers/cisco-business-rv345/
+Cisco,Cisco Business RV260,cisco-business-rv260,192.168.1.1,admin,cisco,Gigabit SFP VPN Security Router,https://routeriphub.com/routers/cisco-business-rv260/
+Cisco,Cisco Business RV160,cisco-business-rv160,192.168.1.1,admin,cisco,Gigabit VPN Small Business Router,https://routeriphub.com/routers/cisco-business-rv160/
+Cisco,Cisco Business RV130,cisco-business-rv130,192.168.1.1,admin,cisco,Gigabit Small Business VPN Router,https://routeriphub.com/routers/cisco-business-rv130/
+Cisco,Cisco Business RV042,cisco-business-rv042,192.168.1.1,admin,admin,10/100 Dual WAN Business Router,https://routeriphub.com/routers/cisco-business-rv042/
+Cisco,Cisco Meraki Go GX20,cisco-meraki-go-gx20,192.168.128.1,admin,admin,Cloud Managed Router Firewall,https://routeriphub.com/routers/cisco-meraki-go-gx20/
+Cisco,Cisco Meraki Go GX50,cisco-meraki-go-gx50,192.168.128.1,admin,admin,500Mbps Security Router Gateway,https://routeriphub.com/routers/cisco-meraki-go-gx50/
+Cisco,Cisco Catalyst 1000-8T-2G-L,cisco-catalyst-1000,192.168.1.254,admin,cisco,Enterprise Managed Layer 2/3 Switch,https://routeriphub.com/routers/cisco-catalyst-1000/
+Cisco,Cisco ISR 1100 (C1111-8P),cisco-isr-1100,192.168.1.1,admin,cisco,Cisco IOS XE Enterprise Router,https://routeriphub.com/routers/cisco-isr-1100/
+Cisco,Cisco ISR 4331,cisco-isr-4331,10.0.0.1,admin,cisco,Enterprise ISR 4000 Modular Router,https://routeriphub.com/routers/cisco-isr-4331/
+Cisco,Cisco C921-4P,cisco-c921-4p,192.168.1.1,admin,cisco,Gigabit Ethernet Security Router,https://routeriphub.com/routers/cisco-c921-4p/
+Synology,Synology RT6600ax,synology-rt6600ax,192.168.1.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/synology-rt6600ax/
+Synology,Synology RT2600ac,synology-rt2600ac,192.168.1.1,admin,admin (created on setup),Wi-Fi 5,https://routeriphub.com/routers/synology-rt2600ac/
+Synology,Synology WRX560,synology-wrx560,192.168.1.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/synology-wrx560/
+Synology,Synology MR2200ac,synology-mr2200ac,192.168.1.1,admin,admin (created on setup),Wi-Fi 5,https://routeriphub.com/routers/synology-mr2200ac/
+Synology,Synology RT1900ac,synology-rt1900ac,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/synology-rt1900ac/
+Synology,Synology DS-Gateway,synology-ds-gateway,192.168.1.1,admin,admin,Enterprise SRM Controller,https://routeriphub.com/routers/synology-ds-gateway/
+Google Nest,Nest Wifi Pro (G6ZUC),google-nest-wifi-pro,192.168.86.1,admin,Managed via Google Home,Wi-Fi 6E,https://routeriphub.com/routers/google-nest-wifi-pro/
+Google Nest,Nest Wifi Router (H2D),google-nest-wifi-router,192.168.86.1,admin,Managed via Google Home,Wi-Fi 5,https://routeriphub.com/routers/google-nest-wifi-router/
+Google Nest,Nest Wifi Point (H2E),google-nest-wifi-point,192.168.86.1,admin,Managed via Google Home,Wi-Fi 5,https://routeriphub.com/routers/google-nest-wifi-point/
+Google Nest,Google Wifi (NLS-1304-25),google-wifi,192.168.86.1,admin,Managed via Google Home,Wi-Fi 5,https://routeriphub.com/routers/google-wifi/
+Google Nest,Google OnHub Asus (SRT-AC1900),google-onhub-asus,192.168.86.1,admin,Managed via Google Home,Wi-Fi 5,https://routeriphub.com/routers/google-onhub-asus/
+Google Nest,Google OnHub TP-Link (TGR1900),google-onhub-tplink,192.168.86.1,admin,Managed via Google Home,Wi-Fi 5,https://routeriphub.com/routers/google-onhub-tplink/
+Amazon Eero,Eero Max 7,amazon-eero-max-7,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 7,https://routeriphub.com/routers/amazon-eero-max-7/
+Amazon Eero,Eero Pro 6E (S010001),amazon-eero-pro-6e,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 6E,https://routeriphub.com/routers/amazon-eero-pro-6e/
+Amazon Eero,Eero Pro 6 (K010001),amazon-eero-pro-6,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 6,https://routeriphub.com/routers/amazon-eero-pro-6/
+Amazon Eero,Eero 6+ (R010001),amazon-eero-6-plus,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 6,https://routeriphub.com/routers/amazon-eero-6-plus/
+Amazon Eero,Eero 6 (N010001),amazon-eero-6,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 6,https://routeriphub.com/routers/amazon-eero-6/
+Amazon Eero,Eero Pro (2nd Gen - B010001),amazon-eero-pro-2nd-gen,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 5,https://routeriphub.com/routers/amazon-eero-pro-2nd-gen/
+Amazon Eero,Eero Beacon,amazon-eero-beacon,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 5,https://routeriphub.com/routers/amazon-eero-beacon/
+Amazon Eero,Eero (1st Gen),amazon-eero-1st-gen,192.168.4.1,admin,Managed via Amazon eero App,Wi-Fi 5,https://routeriphub.com/routers/amazon-eero-1st-gen/
+AVM FRITZ!Box,FRITZ!Box 7590 AX,avm-fritzbox-7590-ax,192.168.178.1,admin,Unique sticker password,Wi-Fi 6 + VDSL Supervectoring 35b,https://routeriphub.com/routers/avm-fritzbox-7590-ax/
+AVM FRITZ!Box,FRITZ!Box 7590,avm-fritzbox-7590,192.168.178.1,admin,Unique sticker password,Wi-Fi 5,https://routeriphub.com/routers/avm-fritzbox-7590/
+AVM FRITZ!Box,FRITZ!Box 7530 AX,avm-fritzbox-7530-ax,192.168.178.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/avm-fritzbox-7530-ax/
+AVM FRITZ!Box,FRITZ!Box 7530,avm-fritzbox-7530,192.168.178.1,admin,Unique sticker password,Wi-Fi 5,https://routeriphub.com/routers/avm-fritzbox-7530/
+AVM FRITZ!Box,FRITZ!Box 5590 Fiber,avm-fritzbox-5590-fiber,192.168.178.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/avm-fritzbox-5590-fiber/
+AVM FRITZ!Box,FRITZ!Box 5530 Fiber,avm-fritzbox-5530-fiber,192.168.178.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/avm-fritzbox-5530-fiber/
+AVM FRITZ!Box,FRITZ!Box 6690 Cable,avm-fritzbox-6690-cable,192.168.178.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/avm-fritzbox-6690-cable/
+AVM FRITZ!Box,FRITZ!Box 6660 Cable,avm-fritzbox-6660-cable,192.168.178.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/avm-fritzbox-6660-cable/
+AVM FRITZ!Box,FRITZ!Box 4060,avm-fritzbox-4060,192.168.178.1,admin,Unique sticker password,Wi-Fi 6,https://routeriphub.com/routers/avm-fritzbox-4060/
+AVM FRITZ!Box,FRITZ!Box 4040,avm-fritzbox-4040,192.168.178.1,admin,Unique sticker password,Wi-Fi 5,https://routeriphub.com/routers/avm-fritzbox-4040/
+AVM FRITZ!Box,FRITZ!Box 6850 5G,avm-fritzbox-6850-5g,192.168.178.1,admin,Unique sticker password,Wi-Fi 5,https://routeriphub.com/routers/avm-fritzbox-6850-5g/
+AVM FRITZ!Box,FRITZ!Box 6890 LTE,avm-fritzbox-6890-lte,192.168.178.1,admin,Unique sticker password,Wi-Fi 5,https://routeriphub.com/routers/avm-fritzbox-6890-lte/
+Zyxel,Armor G5 (NBG7815),zyxel-armor-g5,192.168.1.1,admin,1234,Wi-Fi 6,https://routeriphub.com/routers/zyxel-armor-g5/
+Zyxel,Armor G1 (NBG6818),zyxel-armor-g1,192.168.1.1,admin,1234,Wi-Fi 5,https://routeriphub.com/routers/zyxel-armor-g1/
+Zyxel,Multy X (WSQ50),zyxel-multy-x,192.168.212.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/zyxel-multy-x/
+Zyxel,Multy M1 (WSM20),zyxel-multy-m1,192.168.212.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/zyxel-multy-m1/
+Zyxel,USG FLEX 100,zyxel-usg-flex-100,192.168.1.1,admin,1234,Nebula Cloud UTM Gateway,https://routeriphub.com/routers/zyxel-usg-flex-100/
+Zyxel,USG FLEX 200,zyxel-usg-flex-200,192.168.1.1,admin,1234,High-Throughput UTM Security Gateway,https://routeriphub.com/routers/zyxel-usg-flex-200/
+Zyxel,USG20-VPN,zyxel-usg20-vpn,192.168.1.1,admin,1234,Gigabit Fanless VPN Firewall,https://routeriphub.com/routers/zyxel-usg20-vpn/
+Zyxel,VMG8825-B50B,zyxel-vmg8825-b50b,192.168.1.1,admin,admin,Wi-Fi 5,https://routeriphub.com/routers/zyxel-vmg8825-b50b/
+Zyxel,DX3301-T0,zyxel-dx3301-t0,192.168.1.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/zyxel-dx3301-t0/
+Zyxel,NBG6604,zyxel-nbg6604,192.168.1.1,admin,1234,Wi-Fi 5,https://routeriphub.com/routers/zyxel-nbg6604/
+Huawei,WiFi AX3 (Quad-Core WS7200),huawei-wifi-ax3-quad-core,192.168.3.1,admin,admin,Wi-Fi 6 Plus,https://routeriphub.com/routers/huawei-wifi-ax3-quad-core/
+Huawei,WiFi AX3 (Dual-Core WS7100),huawei-wifi-ax3-dual-core,192.168.3.1,admin,admin,Wi-Fi 6 Plus,https://routeriphub.com/routers/huawei-wifi-ax3-dual-core/
+Huawei,WiFi AX2 (WS7001),huawei-wifi-ax2,192.168.3.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/huawei-wifi-ax2/
+Huawei,WiFi Mesh 7 (WS8800),huawei-wifi-mesh-7,192.168.3.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/huawei-wifi-mesh-7/
+Huawei,WiFi Mesh 3 (WS5800),huawei-wifi-mesh-3,192.168.3.1,admin,admin,Wi-Fi 6,https://routeriphub.com/routers/huawei-wifi-mesh-3/
+Huawei,5G CPE Pro 2 (H122-373),huawei-5g-cpe-pro-2,192.168.8.1,admin,Unique sticker password,Wi-Fi 6 + 5G Sub-6GHz,https://routeriphub.com/routers/huawei-5g-cpe-pro-2/
+Huawei,4G Router 3 Pro (B535-232),huawei-4g-router-3-pro,192.168.8.1,admin,admin,Wi-Fi 5 + LTE Cat 7,https://routeriphub.com/routers/huawei-4g-router-3-pro/
+Huawei,EchoLife HG8245H,huawei-echolife-hg8245h,192.168.100.1,admin,admintelecom,GPON ONT + Wi-Fi 4,https://routeriphub.com/routers/huawei-echolife-hg8245h/
+Huawei,EchoLife HG8145V5,huawei-echolife-hg8145v5,192.168.100.1,admin,admintelecom,GPON ONT + Wi-Fi 5,https://routeriphub.com/routers/huawei-echolife-hg8145v5/
+Huawei,4G Router B311 (B311-221),huawei-b311-221,192.168.8.1,admin,admin,802.11n + LTE Cat 4,https://routeriphub.com/routers/huawei-b311-221/
+GL.iNet,Slate AX (GL-AXT1800),gl-inet-slate-ax-gl-axt1800,192.168.8.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/gl-inet-slate-ax-gl-axt1800/
+GL.iNet,Beryl AX (GL-MT3000),gl-inet-beryl-ax-gl-mt3000,192.168.8.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/gl-inet-beryl-ax-gl-mt3000/
+GL.iNet,Beryl (GL-MT1300),gl-inet-beryl-gl-mt1300,192.168.8.1,admin,admin (created on setup),Wi-Fi 5,https://routeriphub.com/routers/gl-inet-beryl-gl-mt1300/
+GL.iNet,Opal (GL-SFT1200),gl-inet-opal-gl-sft1200,192.168.8.1,admin,admin (created on setup),Wi-Fi 5,https://routeriphub.com/routers/gl-inet-opal-gl-sft1200/
+GL.iNet,Slate (GL-AR750S-Ext),gl-inet-slate-gl-ar750s,192.168.8.1,admin,admin (created on setup),Wi-Fi 5,https://routeriphub.com/routers/gl-inet-slate-gl-ar750s/
+GL.iNet,Shadow (GL-AR300M16),gl-inet-shadow-gl-ar300m,192.168.8.1,admin,admin (created on setup),802.11n,https://routeriphub.com/routers/gl-inet-shadow-gl-ar300m/
+GL.iNet,Flint (GL-AX1800),gl-inet-flint-gl-ax1800,192.168.8.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/gl-inet-flint-gl-ax1800/
+GL.iNet,Flint 2 (GL-MT6000),gl-inet-flint-2-gl-mt6000,192.168.8.1,admin,admin (created on setup),Wi-Fi 6,https://routeriphub.com/routers/gl-inet-flint-2-gl-mt6000/
+GL.iNet,Spitz AX (GL-X3000),gl-inet-spitz-ax-gl-x3000,192.168.8.1,admin,admin (created on setup),Wi-Fi 6 + 5G NR Dual-SIM,https://routeriphub.com/routers/gl-inet-spitz-ax-gl-x3000/
+GL.iNet,Mudi (GL-E750),gl-inet-mudi-gl-e750,192.168.8.1,admin,admin (created on setup),Wi-Fi 5 + 4G LTE with 7000mAh Battery,https://routeriphub.com/routers/gl-inet-mudi-gl-e750/
+DrayTek,Vigor 2927 Series,draytek-vigor-2927,192.168.1.1,admin,admin,Dual-WAN Gigabit Business Router,https://routeriphub.com/routers/draytek-vigor-2927/
+DrayTek,Vigor 2962,draytek-vigor-2962,192.168.1.1,admin,admin,2.5G / SFP Multi-WAN Enterprise,https://routeriphub.com/routers/draytek-vigor-2962/
+DrayTek,Vigor 2865 Series,draytek-vigor-2865,192.168.1.1,admin,admin,VDSL2 35b Supervectoring + GbE WAN,https://routeriphub.com/routers/draytek-vigor-2865/
+DrayTek,Vigor 3910,draytek-vigor-3910,192.168.1.1,admin,admin,Quad 10G SFP+ Core Enterprise Router,https://routeriphub.com/routers/draytek-vigor-3910/
+DrayTek,Vigor 2135 Series,draytek-vigor-2135,192.168.1.1,admin,admin,Gigabit SOHO Security Router,https://routeriphub.com/routers/draytek-vigor-2135/
+DrayTek,Vigor 2765 Series,draytek-vigor-2765,192.168.1.1,admin,admin,VDSL2/ADSL2+ Security Router,https://routeriphub.com/routers/draytek-vigor-2765/
+DrayTek,Vigor 2926 Series,draytek-vigor-2926,192.168.1.1,admin,admin,Dual-WAN Gigabit VPN Router,https://routeriphub.com/routers/draytek-vigor-2926/
+DrayTek,Vigor 2862 Series,draytek-vigor-2862,192.168.1.1,admin,admin,VDSL2/ADSL2+ Enterprise Router,https://routeriphub.com/routers/draytek-vigor-2862/
+Arris,SURFboard G54,arris-surfboard-g54,192.168.0.1,admin,password,Wi-Fi 7,https://routeriphub.com/routers/arris-surfboard-g54/
+Arris,SURFboard G36,arris-surfboard-g36,192.168.0.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/arris-surfboard-g36/
+Arris,SURFboard G34,arris-surfboard-g34,192.168.0.1,admin,password,Wi-Fi 6,https://routeriphub.com/routers/arris-surfboard-g34/
+Arris,SURFboard SBG8300,arris-surfboard-sbg8300,192.168.0.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/arris-surfboard-sbg8300/
+Arris,SURFboard SBG7600AC2,arris-surfboard-sbg7600ac2,192.168.0.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/arris-surfboard-sbg7600ac2/
+Arris,SURFboard SBG7400AC2,arris-surfboard-sbg7400ac2,192.168.0.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/arris-surfboard-sbg7400ac2/
+Arris,SURFboard SBG6900-AC,arris-surfboard-sbg6900-ac,192.168.0.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/arris-surfboard-sbg6900-ac/
+Arris,SURFboard SBG10,arris-surfboard-sbg10,192.168.0.1,admin,password,Wi-Fi 5,https://routeriphub.com/routers/arris-surfboard-sbg10/
+Arris,Arris NVG589,arris-nvg589,192.168.1.254,admin,Sticker password,802.11n VDSL2 Bonded Gateway,https://routeriphub.com/routers/arris-nvg589/
+Arris,Arris BGW210-700,arris-bgw210-700,192.168.1.254,admin,Sticker Access Code,Wi-Fi 5,https://routeriphub.com/routers/arris-bgw210-700/
+Motorola,Motorola MG8725,motorola-mg8725,192.168.0.1,admin,motorola,Wi-Fi 6,https://routeriphub.com/routers/motorola-mg8725/
+Motorola,Motorola MG8702,motorola-mg8702,192.168.0.1,admin,motorola,Wi-Fi 5,https://routeriphub.com/routers/motorola-mg8702/
+Motorola,Motorola MG7700,motorola-mg7700,192.168.0.1,admin,motorola,Wi-Fi 5,https://routeriphub.com/routers/motorola-mg7700/
+Motorola,Motorola MG7550,motorola-mg7550,192.168.0.1,admin,motorola,Wi-Fi 5,https://routeriphub.com/routers/motorola-mg7550/
+Motorola,Motorola MT7711,motorola-mt7711,192.168.0.1,admin,motorola,Wi-Fi 5,https://routeriphub.com/routers/motorola-mt7711/
+Motorola,Motorola MR2600,motorola-mr2600,192.168.1.1,admin,motorola,Wi-Fi 5,https://routeriphub.com/routers/motorola-mr2600/

@@ -1,0 +1,41 @@
+{
+  "192.168.1.1": [
+    "Netgear",
+    "ASUS",
+    "Linksys",
+    "Cisco",
+    "Verizon Fios",
+    "Ubiquiti"
+  ],
+  "192.168.0.1": [
+    "TP-Link",
+    "D-Link",
+    "Netgear",
+    "Tenda"
+  ],
+  "192.168.2.1": [
+    "Belkin",
+    "Bell Canada Home Hub",
+    "SMC",
+    "Edimax"
+  ],
+  "10.0.0.1": [
+    "Xfinity (Comcast)",
+    "Apple AirPort"
+  ],
+  "192.168.1.254": [
+    "AT&T Fiber",
+    "BT Smart Hub",
+    "Bbox"
+  ],
+  "192.168.8.1": [
+    "Huawei",
+    "GL.iNet"
+  ],
+  "192.168.31.1": [
+    "Xiaomi"
+  ],
+  "192.168.88.1": [
+    "MikroTik"
+  ]
+}

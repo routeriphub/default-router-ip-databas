@@ -1,0 +1,2512 @@
+[
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AX6 (RAX50)",
+    "slug": "netgear-nighthawk-rax50",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rax50/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AX12 (RAX120)",
+    "slug": "netgear-nighthawk-rax120",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rax120/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk Pro Gaming XR1000",
+    "slug": "netgear-nighthawk-xr1000",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-xr1000/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk Pro Gaming XR500",
+    "slug": "netgear-nighthawk-xr500",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-xr500/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk Pro Gaming XR700",
+    "slug": "netgear-nighthawk-xr700",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-xr700/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk Pro Gaming XR300",
+    "slug": "netgear-nighthawk-xr300",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-xr300/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AX4 (RAX40)",
+    "slug": "netgear-nighthawk-rax40",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rax40/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AX5 (RAX43)",
+    "slug": "netgear-nighthawk-rax43",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rax43/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AX8 (RAX80)",
+    "slug": "netgear-nighthawk-rax80",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rax80/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk Tri-Band AX12 (RAX200)",
+    "slug": "netgear-nighthawk-rax200",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rax200/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk RS700S",
+    "slug": "netgear-nighthawk-rs700s",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rs700s/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk RS300",
+    "slug": "netgear-nighthawk-rs300",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rs300/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AC1900 (R7000)",
+    "slug": "netgear-nighthawk-r7000",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-r7000/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AC1750 (R6700)",
+    "slug": "netgear-nighthawk-r6700",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-r6700/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk X6 AC3200 (R8000)",
+    "slug": "netgear-nighthawk-r8000",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-r8000/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk X8 AC5300 (R8500)",
+    "slug": "netgear-nighthawk-r8500",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-r8500/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk X10 AD7200 (R9000)",
+    "slug": "netgear-nighthawk-r9000",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5 / 802.11ad",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-r9000/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AC2300 (R7000P)",
+    "slug": "netgear-nighthawk-r7000p",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-r7000p/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Nighthawk AX3000 (RAX35)",
+    "slug": "netgear-nighthawk-rax35",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-nighthawk-rax35/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Orbi Tri-Band WiFi 6 (RBK752)",
+    "slug": "netgear-orbi-rbk752",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-orbi-rbk752/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Orbi WiFi 6 (RBK852)",
+    "slug": "netgear-orbi-rbk852",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/netgear-orbi-rbk852/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Orbi Quad-Band WiFi 6E (RBKE963)",
+    "slug": "netgear-orbi-rbke963",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/netgear-orbi-rbke963/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Orbi WiFi 7 (RBE973)",
+    "slug": "netgear-orbi-rbe973",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/netgear-orbi-rbe973/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Orbi 4G LTE WiFi Router (LBR20)",
+    "slug": "netgear-orbi-lbr20",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-orbi-lbr20/"
+  },
+  {
+    "brand": "Netgear",
+    "model": "Netgear AC1200 (R6220)",
+    "slug": "netgear-r6220",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/netgear-r6220/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX55 (AX3000)",
+    "slug": "tp-link-archer-ax55",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax55/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX73 (AX5400)",
+    "slug": "tp-link-archer-ax73",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax73/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX21 (AX1800)",
+    "slug": "tp-link-archer-ax21",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax21/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX10 (AX1500)",
+    "slug": "tp-link-archer-ax10",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax10/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX20 (AX1800)",
+    "slug": "tp-link-archer-ax20",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax20/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX50 (AX3000)",
+    "slug": "tp-link-archer-ax50",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax50/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX72 (AX5400)",
+    "slug": "tp-link-archer-ax72",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax72/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX90 (AX6600)",
+    "slug": "tp-link-archer-ax90",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax90/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer AX11000",
+    "slug": "tp-link-archer-ax11000",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-ax11000/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer GX90 (AX6600)",
+    "slug": "tp-link-archer-gx90",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-gx90/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer BE550 (BE9300)",
+    "slug": "tp-link-archer-be550",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-be550/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer BE800 (BE19000)",
+    "slug": "tp-link-archer-be800",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-be800/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer BE900 (BE24000)",
+    "slug": "tp-link-archer-be900",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-be900/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer C7 (AC1750)",
+    "slug": "tp-link-archer-c7",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-c7/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer A7 (AC1750)",
+    "slug": "tp-link-archer-a7",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-a7/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer C6 (AC1200)",
+    "slug": "tp-link-archer-c6",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-c6/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer A6 (AC1200)",
+    "slug": "tp-link-archer-a6",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-a6/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer C80 (AC1900)",
+    "slug": "tp-link-archer-c80",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-c80/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer C2300 (AC2300)",
+    "slug": "tp-link-archer-c2300",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-c2300/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Archer C5400X",
+    "slug": "tp-link-archer-c5400x",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-archer-c5400x/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco X20 (AX1800)",
+    "slug": "tp-link-deco-x20",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-x20/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco X50 (AX3000)",
+    "slug": "tp-link-deco-x50",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-x50/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco X55 (AX3000)",
+    "slug": "tp-link-deco-x55",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-x55/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco X60 (AX5400)",
+    "slug": "tp-link-deco-x60",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-x60/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco XE75 (AXE5400)",
+    "slug": "tp-link-deco-xe75",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-xe75/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco XE75 Pro (AXE5400)",
+    "slug": "tp-link-deco-xe75-pro",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-xe75-pro/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco BE85 (BE22000)",
+    "slug": "tp-link-deco-be85",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-be85/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco M4 (AC1200)",
+    "slug": "tp-link-deco-m4",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-m4/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Deco M5 (AC1300)",
+    "slug": "tp-link-deco-m5",
+    "default_ip": "192.168.68.1",
+    "default_username": "admin",
+    "default_password": "TP-Link ID",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/tp-link-deco-m5/"
+  },
+  {
+    "brand": "TP-Link",
+    "model": "Omada ER605 (TL-R605)",
+    "slug": "tp-link-omada-er605",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Gigabit Wired VPN Router",
+    "web_profile": "https://routeriphub.com/routers/tp-link-omada-er605/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX88U (AX6000)",
+    "slug": "asus-rt-ax88u",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax88u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX86U (AX5700)",
+    "slug": "asus-rt-ax86u",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax86u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX86U Pro (AX5700)",
+    "slug": "asus-rt-ax86u-pro",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax86u-pro/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX88U Pro (AX6000)",
+    "slug": "asus-rt-ax88u-pro",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax88u-pro/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX58U (AX3000)",
+    "slug": "asus-rt-ax58u",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax58u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX55 (AX1800)",
+    "slug": "asus-rt-ax55",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax55/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX53U (AX1800)",
+    "slug": "asus-rt-ax53u",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax53u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX68U (AX2700)",
+    "slug": "asus-rt-ax68u",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax68u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX82U (AX5400)",
+    "slug": "asus-rt-ax82u",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax82u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX89X (AX6000)",
+    "slug": "asus-rt-ax89x",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax89x/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AX92U (AX6100)",
+    "slug": "asus-rt-ax92u",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ax92u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Rapture GT-AX11000",
+    "slug": "asus-rog-rapture-gt-ax11000",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rog-rapture-gt-ax11000/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Rapture GT-AX11000 Pro",
+    "slug": "asus-rog-rapture-gt-ax11000-pro",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rog-rapture-gt-ax11000-pro/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Rapture GT-AX6000",
+    "slug": "asus-rog-rapture-gt-ax6000",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rog-rapture-gt-ax6000/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Rapture GT-AXE11000",
+    "slug": "asus-rog-rapture-gt-axe11000",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/asus-rog-rapture-gt-axe11000/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Rapture GT-AXE16000",
+    "slug": "asus-rog-rapture-gt-axe16000",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/asus-rog-rapture-gt-axe16000/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Rapture GT-BE98",
+    "slug": "asus-rog-rapture-gt-be98",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/asus-rog-rapture-gt-be98/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Rapture GT6",
+    "slug": "asus-rog-rapture-gt6",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-rog-rapture-gt6/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "TUF Gaming AX3000",
+    "slug": "asus-tuf-gaming-ax3000",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-tuf-gaming-ax3000/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "TUF Gaming AX4200",
+    "slug": "asus-tuf-gaming-ax4200",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-tuf-gaming-ax4200/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "TUF Gaming AX5400",
+    "slug": "asus-tuf-gaming-ax5400",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-tuf-gaming-ax5400/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ZenWiFi XT8 (AX6600)",
+    "slug": "asus-zenwifi-xt8",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-zenwifi-xt8/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ZenWiFi XT9 (AX7800)",
+    "slug": "asus-zenwifi-xt9",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-zenwifi-xt9/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ZenWiFi Pro XT12",
+    "slug": "asus-zenwifi-pro-xt12",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/asus-zenwifi-pro-xt12/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ZenWiFi Pro ET12",
+    "slug": "asus-zenwifi-pro-et12",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/asus-zenwifi-pro-et12/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "ZenWiFi BQ16",
+    "slug": "asus-zenwifi-bq16",
+    "default_ip": "192.168.50.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/asus-zenwifi-bq16/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AC68U (AC1900)",
+    "slug": "asus-rt-ac68u",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ac68u/"
+  },
+  {
+    "brand": "ASUS",
+    "model": "RT-AC86U (AC2900)",
+    "slug": "asus-rt-ac86u",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/asus-rt-ac86u/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Velop Micro 6 Mesh (LN1301)",
+    "slug": "linksys-velop-micro-6-mesh-ln1301",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/linksys-velop-micro-6-mesh-ln1301/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Velop Pro 6E (MX6200)",
+    "slug": "linksys-velop-pro-6e-mx6200",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/linksys-velop-pro-6e-mx6200/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Velop Pro 7 (MBE7000)",
+    "slug": "linksys-velop-pro-7-mbe7000",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/linksys-velop-pro-7-mbe7000/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Atlas Pro 6 (MX5500)",
+    "slug": "linksys-atlas-pro-6-mx5500",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/linksys-atlas-pro-6-mx5500/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Atlas Max 6E (MX8500)",
+    "slug": "linksys-atlas-max-6e-mx8500",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/linksys-atlas-max-6e-mx8500/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Velop AX4200 (MX4200)",
+    "slug": "linksys-velop-ax4200-mx4200",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/linksys-velop-ax4200-mx4200/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Velop AX5300 (MX5300)",
+    "slug": "linksys-velop-ax5300-mx5300",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/linksys-velop-ax5300-mx5300/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Velop Tri-Band (WHW0303)",
+    "slug": "linksys-velop-whw0303",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-velop-whw0303/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Hydra Pro 6E (MR7500)",
+    "slug": "linksys-hydra-pro-6e-mr7500",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/linksys-hydra-pro-6e-mr7500/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Hydra 6 (MR2000)",
+    "slug": "linksys-hydra-6-mr2000",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/linksys-hydra-6-mr2000/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Max-Stream MR9600",
+    "slug": "linksys-mr9600",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/linksys-mr9600/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Max-Stream MR9000",
+    "slug": "linksys-mr9000",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-mr9000/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Max-Stream MR8300",
+    "slug": "linksys-mr8300",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-mr8300/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Max-Stream MR7350",
+    "slug": "linksys-mr7350",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/linksys-mr7350/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Classic WRT54G",
+    "slug": "linksys-wrt54g",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "802.11g",
+    "web_profile": "https://routeriphub.com/routers/linksys-wrt54g/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "WRT1900ACS",
+    "slug": "linksys-wrt1900acs",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-wrt1900acs/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "WRT3200ACM",
+    "slug": "linksys-wrt3200acm",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-wrt3200acm/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "WRT32X",
+    "slug": "linksys-wrt32x",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-wrt32x/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Max-Stream EA7500",
+    "slug": "linksys-ea7500",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-ea7500/"
+  },
+  {
+    "brand": "Linksys",
+    "model": "Max-Stream EA8300",
+    "slug": "linksys-ea8300",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/linksys-ea8300/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Dream Machine Pro (UDM-Pro)",
+    "slug": "ubiquiti-unifi-dream-machine-pro",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "10G SFP+ Enterprise Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-dream-machine-pro/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Dream Machine Special Edition (UDM-SE)",
+    "slug": "ubiquiti-unifi-dream-machine-se",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "10G SFP+ Enterprise Router with PoE",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-dream-machine-se/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Dream Machine (UDM)",
+    "slug": "ubiquiti-unifi-dream-machine",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-dream-machine/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Dream Router (UDR)",
+    "slug": "ubiquiti-unifi-dream-router",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-dream-router/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Cloud Gateway Ultra (UCG-Ultra)",
+    "slug": "ubiquiti-unifi-cloud-gateway-ultra",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "Multi-WAN 2.5G Gigabit Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-cloud-gateway-ultra/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Cloud Gateway Max (UCG-Max)",
+    "slug": "ubiquiti-unifi-cloud-gateway-max",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "Full 2.5GbE Gateway with NVMe Storage",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-cloud-gateway-max/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Express (UX)",
+    "slug": "ubiquiti-unifi-express",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "Wi-Fi 6 Cloud Gateway",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-express/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Security Gateway (USG-3P)",
+    "slug": "ubiquiti-unifi-security-gateway",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "Gigabit Security Gateway",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-security-gateway/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Security Gateway Pro (USG-PRO-4)",
+    "slug": "ubiquiti-unifi-security-gateway-pro",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "Gigabit Enterprise SFP Gateway",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-security-gateway-pro/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "UniFi Dream Wall (UDW)",
+    "slug": "ubiquiti-unifi-dream-wall",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "UI Account / root",
+    "wifi_standard": "Wi-Fi 6 Wall-Mount Enterprise",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-unifi-dream-wall/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "EdgeRouter X (ER-X)",
+    "slug": "ubiquiti-edgerouter-x",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "Gigabit EdgeOS Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-edgerouter-x/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "EdgeRouter X SFP (ER-X-SFP)",
+    "slug": "ubiquiti-edgerouter-x-sfp",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "Gigabit PoE EdgeOS Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-edgerouter-x-sfp/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "EdgeRouter 4 (ER-4)",
+    "slug": "ubiquiti-edgerouter-4",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "High-Performance EdgeOS Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-edgerouter-4/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "EdgeRouter 6P (ER-6P)",
+    "slug": "ubiquiti-edgerouter-6p",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "Gigabit EdgeOS Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-edgerouter-6p/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "EdgeRouter 12 (ER-12)",
+    "slug": "ubiquiti-edgerouter-12",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "10-Port Gigabit Enterprise Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-edgerouter-12/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "EdgeRouter Infinity (ER-8-XG)",
+    "slug": "ubiquiti-edgerouter-infinity",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "ubnt",
+    "wifi_standard": "8-Port 10G SFP+ Core Router",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-edgerouter-infinity/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "AmpliFi Alien (AFi-ALN)",
+    "slug": "ubiquiti-amplifi-alien",
+    "default_ip": "192.168.112.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-amplifi-alien/"
+  },
+  {
+    "brand": "Ubiquiti",
+    "model": "AmpliFi HD (AFi-R)",
+    "slug": "ubiquiti-amplifi-hd",
+    "default_ip": "192.168.112.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/ubiquiti-amplifi-hd/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hEX (RB750Gr3)",
+    "slug": "mikrotik-hex-rb750gr3",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Gigabit RouterOS v7 Router",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hex-rb750gr3/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hEX S (RB760iGS)",
+    "slug": "mikrotik-hex-s-rb760igs",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Gigabit RouterOS with SFP",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hex-s-rb760igs/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hEX PoE (RB960PGS)",
+    "slug": "mikrotik-hex-poe-rb960pgs",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Gigabit PoE RouterOS",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hex-poe-rb960pgs/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hAP ax2 (C52iG-5HaxD2HaxD-TC)",
+    "slug": "mikrotik-hap-ax2",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hap-ax2/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hAP ax3 (C53UiG+5HPaxD2HPaxD)",
+    "slug": "mikrotik-hap-ax3",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hap-ax3/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hAP ac2 (RBD52G-5HacD2HnD-TC)",
+    "slug": "mikrotik-hap-ac2",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hap-ac2/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hAP ac3 (RBD53iG-5HacD2HnD)",
+    "slug": "mikrotik-hap-ac3",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hap-ac3/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "hAP lite (RB941-2nD)",
+    "slug": "mikrotik-hap-lite",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "802.11b/g/n",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-hap-lite/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "RB4011iGS+5HacQ2HnD-IN",
+    "slug": "mikrotik-rb4011",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5 + 10G SFP+ Core",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-rb4011/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "RB5009UG+S+IN",
+    "slug": "mikrotik-rb5009",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Multi-Gig 1G/2.5G/10G RouterOS",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-rb5009/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "L009UiGS-2HaxD-IN",
+    "slug": "mikrotik-l009uigs",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-l009uigs/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "CCR2004-16G-2S+",
+    "slug": "mikrotik-ccr2004",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "16-Port Gigabit + Dual 10G SFP+",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-ccr2004/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "Chateau 5G ax",
+    "slug": "mikrotik-chateau-5g-ax",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-chateau-5g-ax/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "Chateau LTE12",
+    "slug": "mikrotik-chateau-lte12",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-chateau-lte12/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "Cloud Router Switch (CRS305-1G-4S+IN)",
+    "slug": "mikrotik-crs305",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "4x 10Gbps SFP+ Dual Boot RouterOS",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-crs305/"
+  },
+  {
+    "brand": "MikroTik",
+    "model": "RouterBOARD 3011UiAS-RM",
+    "slug": "mikrotik-rb3011",
+    "default_ip": "192.168.88.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "1U Rackmount RouterOS with LCD",
+    "web_profile": "https://routeriphub.com/routers/mikrotik-rb3011/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "EAGLE PRO AI AX1500 (R15)",
+    "slug": "d-link-eagle-pro-ai-r15",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty or sticker password]",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/d-link-eagle-pro-ai-r15/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "EAGLE PRO AI AX3200 (R32)",
+    "slug": "d-link-eagle-pro-ai-r32",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty or sticker password]",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/d-link-eagle-pro-ai-r32/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "EXO AX5400 (DIR-X5460)",
+    "slug": "d-link-exo-dir-x5460",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/d-link-exo-dir-x5460/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "EXO AX1800 (DIR-X1860)",
+    "slug": "d-link-exo-dir-x1860",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/d-link-exo-dir-x1860/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "EXO AX1500 (DIR-X1560)",
+    "slug": "d-link-exo-dir-x1560",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/d-link-exo-dir-x1560/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-882 (AC2600)",
+    "slug": "d-link-dir-882",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-882/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-878 (AC1900)",
+    "slug": "d-link-dir-878",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-878/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-867 (AC1750)",
+    "slug": "d-link-dir-867",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-867/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-842 (AC1200)",
+    "slug": "d-link-dir-842",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-842/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-825 (AC1200)",
+    "slug": "d-link-dir-825",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-825/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-615",
+    "slug": "d-link-dir-615",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "802.11n",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-615/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-600",
+    "slug": "d-link-dir-600",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "802.11n",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-600/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DIR-850L",
+    "slug": "d-link-dir-850l",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "[empty]",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/d-link-dir-850l/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "COVR AX1800 (COVR-X1870)",
+    "slug": "d-link-covr-x1870",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "Sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/d-link-covr-x1870/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "COVR AC1200 (COVR-1100)",
+    "slug": "d-link-covr-1100",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "Sticker password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/d-link-covr-1100/"
+  },
+  {
+    "brand": "D-Link",
+    "model": "DWR-960",
+    "slug": "d-link-dwr-960",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5 + LTE Cat 7",
+    "web_profile": "https://routeriphub.com/routers/d-link-dwr-960/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Business RV340",
+    "slug": "cisco-business-rv340",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Dual WAN Gigabit Security Gateway",
+    "web_profile": "https://routeriphub.com/routers/cisco-business-rv340/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Business RV345",
+    "slug": "cisco-business-rv345",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Dual WAN 16-Port Gigabit Gateway",
+    "web_profile": "https://routeriphub.com/routers/cisco-business-rv345/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Business RV260",
+    "slug": "cisco-business-rv260",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Gigabit SFP VPN Security Router",
+    "web_profile": "https://routeriphub.com/routers/cisco-business-rv260/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Business RV160",
+    "slug": "cisco-business-rv160",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Gigabit VPN Small Business Router",
+    "web_profile": "https://routeriphub.com/routers/cisco-business-rv160/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Business RV130",
+    "slug": "cisco-business-rv130",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Gigabit Small Business VPN Router",
+    "web_profile": "https://routeriphub.com/routers/cisco-business-rv130/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Business RV042",
+    "slug": "cisco-business-rv042",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "10/100 Dual WAN Business Router",
+    "web_profile": "https://routeriphub.com/routers/cisco-business-rv042/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Meraki Go GX20",
+    "slug": "cisco-meraki-go-gx20",
+    "default_ip": "192.168.128.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Cloud Managed Router Firewall",
+    "web_profile": "https://routeriphub.com/routers/cisco-meraki-go-gx20/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Meraki Go GX50",
+    "slug": "cisco-meraki-go-gx50",
+    "default_ip": "192.168.128.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "500Mbps Security Router Gateway",
+    "web_profile": "https://routeriphub.com/routers/cisco-meraki-go-gx50/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco Catalyst 1000-8T-2G-L",
+    "slug": "cisco-catalyst-1000",
+    "default_ip": "192.168.1.254",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Enterprise Managed Layer 2/3 Switch",
+    "web_profile": "https://routeriphub.com/routers/cisco-catalyst-1000/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco ISR 1100 (C1111-8P)",
+    "slug": "cisco-isr-1100",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Cisco IOS XE Enterprise Router",
+    "web_profile": "https://routeriphub.com/routers/cisco-isr-1100/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco ISR 4331",
+    "slug": "cisco-isr-4331",
+    "default_ip": "10.0.0.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Enterprise ISR 4000 Modular Router",
+    "web_profile": "https://routeriphub.com/routers/cisco-isr-4331/"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Cisco C921-4P",
+    "slug": "cisco-c921-4p",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "cisco",
+    "wifi_standard": "Gigabit Ethernet Security Router",
+    "web_profile": "https://routeriphub.com/routers/cisco-c921-4p/"
+  },
+  {
+    "brand": "Synology",
+    "model": "Synology RT6600ax",
+    "slug": "synology-rt6600ax",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/synology-rt6600ax/"
+  },
+  {
+    "brand": "Synology",
+    "model": "Synology RT2600ac",
+    "slug": "synology-rt2600ac",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/synology-rt2600ac/"
+  },
+  {
+    "brand": "Synology",
+    "model": "Synology WRX560",
+    "slug": "synology-wrx560",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/synology-wrx560/"
+  },
+  {
+    "brand": "Synology",
+    "model": "Synology MR2200ac",
+    "slug": "synology-mr2200ac",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/synology-mr2200ac/"
+  },
+  {
+    "brand": "Synology",
+    "model": "Synology RT1900ac",
+    "slug": "synology-rt1900ac",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/synology-rt1900ac/"
+  },
+  {
+    "brand": "Synology",
+    "model": "Synology DS-Gateway",
+    "slug": "synology-ds-gateway",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Enterprise SRM Controller",
+    "web_profile": "https://routeriphub.com/routers/synology-ds-gateway/"
+  },
+  {
+    "brand": "Google Nest",
+    "model": "Nest Wifi Pro (G6ZUC)",
+    "slug": "google-nest-wifi-pro",
+    "default_ip": "192.168.86.1",
+    "default_username": "admin",
+    "default_password": "Managed via Google Home",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/google-nest-wifi-pro/"
+  },
+  {
+    "brand": "Google Nest",
+    "model": "Nest Wifi Router (H2D)",
+    "slug": "google-nest-wifi-router",
+    "default_ip": "192.168.86.1",
+    "default_username": "admin",
+    "default_password": "Managed via Google Home",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/google-nest-wifi-router/"
+  },
+  {
+    "brand": "Google Nest",
+    "model": "Nest Wifi Point (H2E)",
+    "slug": "google-nest-wifi-point",
+    "default_ip": "192.168.86.1",
+    "default_username": "admin",
+    "default_password": "Managed via Google Home",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/google-nest-wifi-point/"
+  },
+  {
+    "brand": "Google Nest",
+    "model": "Google Wifi (NLS-1304-25)",
+    "slug": "google-wifi",
+    "default_ip": "192.168.86.1",
+    "default_username": "admin",
+    "default_password": "Managed via Google Home",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/google-wifi/"
+  },
+  {
+    "brand": "Google Nest",
+    "model": "Google OnHub Asus (SRT-AC1900)",
+    "slug": "google-onhub-asus",
+    "default_ip": "192.168.86.1",
+    "default_username": "admin",
+    "default_password": "Managed via Google Home",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/google-onhub-asus/"
+  },
+  {
+    "brand": "Google Nest",
+    "model": "Google OnHub TP-Link (TGR1900)",
+    "slug": "google-onhub-tplink",
+    "default_ip": "192.168.86.1",
+    "default_username": "admin",
+    "default_password": "Managed via Google Home",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/google-onhub-tplink/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero Max 7",
+    "slug": "amazon-eero-max-7",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-max-7/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero Pro 6E (S010001)",
+    "slug": "amazon-eero-pro-6e",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 6E",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-pro-6e/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero Pro 6 (K010001)",
+    "slug": "amazon-eero-pro-6",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-pro-6/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero 6+ (R010001)",
+    "slug": "amazon-eero-6-plus",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-6-plus/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero 6 (N010001)",
+    "slug": "amazon-eero-6",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-6/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero Pro (2nd Gen - B010001)",
+    "slug": "amazon-eero-pro-2nd-gen",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-pro-2nd-gen/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero Beacon",
+    "slug": "amazon-eero-beacon",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-beacon/"
+  },
+  {
+    "brand": "Amazon Eero",
+    "model": "Eero (1st Gen)",
+    "slug": "amazon-eero-1st-gen",
+    "default_ip": "192.168.4.1",
+    "default_username": "admin",
+    "default_password": "Managed via Amazon eero App",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/amazon-eero-1st-gen/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 7590 AX",
+    "slug": "avm-fritzbox-7590-ax",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6 + VDSL Supervectoring 35b",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-7590-ax/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 7590",
+    "slug": "avm-fritzbox-7590",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-7590/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 7530 AX",
+    "slug": "avm-fritzbox-7530-ax",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-7530-ax/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 7530",
+    "slug": "avm-fritzbox-7530",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-7530/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 5590 Fiber",
+    "slug": "avm-fritzbox-5590-fiber",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-5590-fiber/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 5530 Fiber",
+    "slug": "avm-fritzbox-5530-fiber",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-5530-fiber/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 6690 Cable",
+    "slug": "avm-fritzbox-6690-cable",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-6690-cable/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 6660 Cable",
+    "slug": "avm-fritzbox-6660-cable",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-6660-cable/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 4060",
+    "slug": "avm-fritzbox-4060",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-4060/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 4040",
+    "slug": "avm-fritzbox-4040",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-4040/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 6850 5G",
+    "slug": "avm-fritzbox-6850-5g",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-6850-5g/"
+  },
+  {
+    "brand": "AVM FRITZ!Box",
+    "model": "FRITZ!Box 6890 LTE",
+    "slug": "avm-fritzbox-6890-lte",
+    "default_ip": "192.168.178.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/avm-fritzbox-6890-lte/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "Armor G5 (NBG7815)",
+    "slug": "zyxel-armor-g5",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "1234",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/zyxel-armor-g5/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "Armor G1 (NBG6818)",
+    "slug": "zyxel-armor-g1",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "1234",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/zyxel-armor-g1/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "Multy X (WSQ50)",
+    "slug": "zyxel-multy-x",
+    "default_ip": "192.168.212.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/zyxel-multy-x/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "Multy M1 (WSM20)",
+    "slug": "zyxel-multy-m1",
+    "default_ip": "192.168.212.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/zyxel-multy-m1/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "USG FLEX 100",
+    "slug": "zyxel-usg-flex-100",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "1234",
+    "wifi_standard": "Nebula Cloud UTM Gateway",
+    "web_profile": "https://routeriphub.com/routers/zyxel-usg-flex-100/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "USG FLEX 200",
+    "slug": "zyxel-usg-flex-200",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "1234",
+    "wifi_standard": "High-Throughput UTM Security Gateway",
+    "web_profile": "https://routeriphub.com/routers/zyxel-usg-flex-200/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "USG20-VPN",
+    "slug": "zyxel-usg20-vpn",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "1234",
+    "wifi_standard": "Gigabit Fanless VPN Firewall",
+    "web_profile": "https://routeriphub.com/routers/zyxel-usg20-vpn/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "VMG8825-B50B",
+    "slug": "zyxel-vmg8825-b50b",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/zyxel-vmg8825-b50b/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "DX3301-T0",
+    "slug": "zyxel-dx3301-t0",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/zyxel-dx3301-t0/"
+  },
+  {
+    "brand": "Zyxel",
+    "model": "NBG6604",
+    "slug": "zyxel-nbg6604",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "1234",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/zyxel-nbg6604/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "WiFi AX3 (Quad-Core WS7200)",
+    "slug": "huawei-wifi-ax3-quad-core",
+    "default_ip": "192.168.3.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6 Plus",
+    "web_profile": "https://routeriphub.com/routers/huawei-wifi-ax3-quad-core/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "WiFi AX3 (Dual-Core WS7100)",
+    "slug": "huawei-wifi-ax3-dual-core",
+    "default_ip": "192.168.3.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6 Plus",
+    "web_profile": "https://routeriphub.com/routers/huawei-wifi-ax3-dual-core/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "WiFi AX2 (WS7001)",
+    "slug": "huawei-wifi-ax2",
+    "default_ip": "192.168.3.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/huawei-wifi-ax2/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "WiFi Mesh 7 (WS8800)",
+    "slug": "huawei-wifi-mesh-7",
+    "default_ip": "192.168.3.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/huawei-wifi-mesh-7/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "WiFi Mesh 3 (WS5800)",
+    "slug": "huawei-wifi-mesh-3",
+    "default_ip": "192.168.3.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/huawei-wifi-mesh-3/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "5G CPE Pro 2 (H122-373)",
+    "slug": "huawei-5g-cpe-pro-2",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "Unique sticker password",
+    "wifi_standard": "Wi-Fi 6 + 5G Sub-6GHz",
+    "web_profile": "https://routeriphub.com/routers/huawei-5g-cpe-pro-2/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "4G Router 3 Pro (B535-232)",
+    "slug": "huawei-4g-router-3-pro",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Wi-Fi 5 + LTE Cat 7",
+    "web_profile": "https://routeriphub.com/routers/huawei-4g-router-3-pro/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "EchoLife HG8245H",
+    "slug": "huawei-echolife-hg8245h",
+    "default_ip": "192.168.100.1",
+    "default_username": "admin",
+    "default_password": "admintelecom",
+    "wifi_standard": "GPON ONT + Wi-Fi 4",
+    "web_profile": "https://routeriphub.com/routers/huawei-echolife-hg8245h/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "EchoLife HG8145V5",
+    "slug": "huawei-echolife-hg8145v5",
+    "default_ip": "192.168.100.1",
+    "default_username": "admin",
+    "default_password": "admintelecom",
+    "wifi_standard": "GPON ONT + Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/huawei-echolife-hg8145v5/"
+  },
+  {
+    "brand": "Huawei",
+    "model": "4G Router B311 (B311-221)",
+    "slug": "huawei-b311-221",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "802.11n + LTE Cat 4",
+    "web_profile": "https://routeriphub.com/routers/huawei-b311-221/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Slate AX (GL-AXT1800)",
+    "slug": "gl-inet-slate-ax-gl-axt1800",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-slate-ax-gl-axt1800/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Beryl AX (GL-MT3000)",
+    "slug": "gl-inet-beryl-ax-gl-mt3000",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-beryl-ax-gl-mt3000/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Beryl (GL-MT1300)",
+    "slug": "gl-inet-beryl-gl-mt1300",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-beryl-gl-mt1300/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Opal (GL-SFT1200)",
+    "slug": "gl-inet-opal-gl-sft1200",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-opal-gl-sft1200/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Slate (GL-AR750S-Ext)",
+    "slug": "gl-inet-slate-gl-ar750s",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-slate-gl-ar750s/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Shadow (GL-AR300M16)",
+    "slug": "gl-inet-shadow-gl-ar300m",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "802.11n",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-shadow-gl-ar300m/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Flint (GL-AX1800)",
+    "slug": "gl-inet-flint-gl-ax1800",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-flint-gl-ax1800/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Flint 2 (GL-MT6000)",
+    "slug": "gl-inet-flint-2-gl-mt6000",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-flint-2-gl-mt6000/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Spitz AX (GL-X3000)",
+    "slug": "gl-inet-spitz-ax-gl-x3000",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 6 + 5G NR Dual-SIM",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-spitz-ax-gl-x3000/"
+  },
+  {
+    "brand": "GL.iNet",
+    "model": "Mudi (GL-E750)",
+    "slug": "gl-inet-mudi-gl-e750",
+    "default_ip": "192.168.8.1",
+    "default_username": "admin",
+    "default_password": "admin (created on setup)",
+    "wifi_standard": "Wi-Fi 5 + 4G LTE with 7000mAh Battery",
+    "web_profile": "https://routeriphub.com/routers/gl-inet-mudi-gl-e750/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 2927 Series",
+    "slug": "draytek-vigor-2927",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Dual-WAN Gigabit Business Router",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-2927/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 2962",
+    "slug": "draytek-vigor-2962",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "2.5G / SFP Multi-WAN Enterprise",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-2962/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 2865 Series",
+    "slug": "draytek-vigor-2865",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "VDSL2 35b Supervectoring + GbE WAN",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-2865/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 3910",
+    "slug": "draytek-vigor-3910",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Quad 10G SFP+ Core Enterprise Router",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-3910/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 2135 Series",
+    "slug": "draytek-vigor-2135",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Gigabit SOHO Security Router",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-2135/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 2765 Series",
+    "slug": "draytek-vigor-2765",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "VDSL2/ADSL2+ Security Router",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-2765/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 2926 Series",
+    "slug": "draytek-vigor-2926",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "Dual-WAN Gigabit VPN Router",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-2926/"
+  },
+  {
+    "brand": "DrayTek",
+    "model": "Vigor 2862 Series",
+    "slug": "draytek-vigor-2862",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "admin",
+    "wifi_standard": "VDSL2/ADSL2+ Enterprise Router",
+    "web_profile": "https://routeriphub.com/routers/draytek-vigor-2862/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard G54",
+    "slug": "arris-surfboard-g54",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 7",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-g54/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard G36",
+    "slug": "arris-surfboard-g36",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-g36/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard G34",
+    "slug": "arris-surfboard-g34",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-g34/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard SBG8300",
+    "slug": "arris-surfboard-sbg8300",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-sbg8300/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard SBG7600AC2",
+    "slug": "arris-surfboard-sbg7600ac2",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-sbg7600ac2/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard SBG7400AC2",
+    "slug": "arris-surfboard-sbg7400ac2",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-sbg7400ac2/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard SBG6900-AC",
+    "slug": "arris-surfboard-sbg6900-ac",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-sbg6900-ac/"
+  },
+  {
+    "brand": "Arris",
+    "model": "SURFboard SBG10",
+    "slug": "arris-surfboard-sbg10",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "password",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/arris-surfboard-sbg10/"
+  },
+  {
+    "brand": "Arris",
+    "model": "Arris NVG589",
+    "slug": "arris-nvg589",
+    "default_ip": "192.168.1.254",
+    "default_username": "admin",
+    "default_password": "Sticker password",
+    "wifi_standard": "802.11n VDSL2 Bonded Gateway",
+    "web_profile": "https://routeriphub.com/routers/arris-nvg589/"
+  },
+  {
+    "brand": "Arris",
+    "model": "Arris BGW210-700",
+    "slug": "arris-bgw210-700",
+    "default_ip": "192.168.1.254",
+    "default_username": "admin",
+    "default_password": "Sticker Access Code",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/arris-bgw210-700/"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Motorola MG8725",
+    "slug": "motorola-mg8725",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "motorola",
+    "wifi_standard": "Wi-Fi 6",
+    "web_profile": "https://routeriphub.com/routers/motorola-mg8725/"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Motorola MG8702",
+    "slug": "motorola-mg8702",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "motorola",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/motorola-mg8702/"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Motorola MG7700",
+    "slug": "motorola-mg7700",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "motorola",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/motorola-mg7700/"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Motorola MG7550",
+    "slug": "motorola-mg7550",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "motorola",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/motorola-mg7550/"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Motorola MT7711",
+    "slug": "motorola-mt7711",
+    "default_ip": "192.168.0.1",
+    "default_username": "admin",
+    "default_password": "motorola",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/motorola-mt7711/"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Motorola MR2600",
+    "slug": "motorola-mr2600",
+    "default_ip": "192.168.1.1",
+    "default_username": "admin",
+    "default_password": "motorola",
+    "wifi_standard": "Wi-Fi 5",
+    "web_profile": "https://routeriphub.com/routers/motorola-mr2600/"
+  }
+]
