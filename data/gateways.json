@@ -248,5 +248,15 @@
     "subnet_mask": "255.255.255.0 (/24)",
     "usable_range": "192.168.212.2 - 192.168.212.254",
     "summary": "192.168.212.1 is the default gateway IP for Zyxel Multy whole-home mesh Wi-Fi series, accessible via web browser or the Zyxel Multy mobile app."
+  },
+  {
+    "ip": "10.10.10.1",
+    "slug": "10-10-10-1",
+    "class_type": "Class A Private (10.0.0.0/8)",
+    "brands": "Custom Routers, Modems, Access Points & Enterprise Networks",
+    "default_creds": "admin / admin",
+    "subnet_mask": "255.255.255.0 (/24)",
+    "usable_range": "10.10.10.2 - 10.10.10.254",
+    "summary": "10.10.10.1 is a private IP address used by select custom and business routers, modems, wireless access points, and enterprise subnets."
   }
 ]
