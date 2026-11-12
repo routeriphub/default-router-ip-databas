@@ -1,14 +1,14 @@
 # 🌐 Universal Default Router IP & Hardware Database
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Models Indexed](https://img.shields.io/badge/Models-250%2B-green.svg)](https://routeriphub.com/routers/)
-[![Gateway Subnets](https://img.shields.io/badge/Subnets-25%20IPs-blue.svg)](https://routeriphub.com/ip/)
+[![Models Indexed](https://img.shields.io/badge/Models-252%2B-green.svg)](https://routeriphub.com/routers/)
+[![Gateway Subnets](https://img.shields.io/badge/Subnets-26%20IPs-blue.svg)](https://routeriphub.com/ip/)
 [![Wi-Fi Extenders](https://img.shields.io/badge/Extenders-Setup%20Guides-purple.svg)](https://routeriphub.com/extenders/)
 [![Live Platform](https://img.shields.io/badge/Web-routeriphub.com-blueviolet.svg)](https://routeriphub.com/)
 
-An open-source, machine-readable database of default gateway IP addresses, admin credentials, Wi-Fi naming schemes, and diagnostic specifications for over **250+ enterprise and consumer wireless routers, mesh systems, and Wi-Fi range extenders**.
+An open-source, machine-readable database of default gateway IP addresses, admin credentials, Wi-Fi naming schemes, and diagnostic specifications for over **252+ enterprise and consumer wireless routers, mesh systems, and Wi-Fi range extenders**.
 
-Curated and maintained by [RouterIPHub.com](https://routeriphub.com/) & Technical Support Engineer [Vikas Behl](https://routeriphub.com/authors/vikas-behl/).
+Curated and maintained by [RouterIPHub.com](https://routeriphub.com/) &amp; Technical Support Engineer [Vikas Behl](https://routeriphub.com/authors/vikas-behl/). Browse the full interactive [Router Hardware Directory (252+ Models)](https://routeriphub.com/routers/) or start with our flagship [192.168.1.1 Default Gateway &amp; Admin Login Guide](https://routeriphub.com/ip/192-168-1-1/).
 
 ---
 
@@ -30,7 +30,7 @@ Curated and maintained by [RouterIPHub.com](https://routeriphub.com/) & Technica
 | `192.168.212.1` | Zyxel Multy M1, Multy X Whole-Home Mesh | `255.255.255.0` | [192.168.212.1 Guide](https://routeriphub.com/ip/192-168-212-1/) |
 | `192.168.88.1` | MikroTik RouterBOARD / RouterOS (WinBox 8291) | `255.255.255.0` | [MikroTik Directory](https://routeriphub.com/brands/mikrotik/) |
 | `192.168.8.1` | GL.iNet OpenWrt Travel Routers, Huawei 4G/5G CPE | `255.255.255.0` | [192.168.8.1 Guide](https://routeriphub.com/ip/192-168-8-1/) |
-| `192.168.31.1` | Xiaomi Mi WiFi, Redmi Gaming Routers | `255.255.255.0` | [Xiaomi Directory](https://routeriphub.com/brands/xiaomi/) |
+| `192.168.31.1` | Xiaomi Mi WiFi, Redmi Gaming Routers | `255.255.255.0` | [192.168.31.1 Guide](https://routeriphub.com/ip/192-168-31-1/) |
 | `192.168.68.1` | TP-Link Deco Whole-Home Mesh Systems | `255.255.255.0` | [TP-Link Directory](https://routeriphub.com/brands/tp-link/) |
 | `192.168.100.1` | DOCSIS 3.1 Cable Modems, Fiber ONTs (Bridge Mode) | `255.255.255.0` | [192.168.100.1 Guide](https://routeriphub.com/ip/192-168-100-1/) |
 | `192.168.178.1` | AVM FRITZ!Box DSL/Fiber/Cable Gateways (Europe) | `255.255.255.0` | [AVM FRITZ!Box Guide](https://routeriphub.com/brands/avm-fritzbox/) |
@@ -61,13 +61,13 @@ Filter the raw JSON dataset directly from your command line:
 
 ```bash
 # Query all ASUS gaming models and their default passwords
-curl -s https://raw.githubusercontent.com/routeriphub/default-router-ip-databas/main/data/routers.json \
+curl -s https://raw.githubusercontent.com/routeriphub/default-router-ip-database/main/data/routers.json \
   | jq '.[] | select(.brand=="ASUS") | {model: .model, ip: .default_ip, pass: .default_password}'
 ```
 
 ```bash
 # Find which hardware runs on 192.168.50.1
-curl -s https://raw.githubusercontent.com/routeriphub/default-router-ip-databas/main/data/routers.json \
+curl -s https://raw.githubusercontent.com/routeriphub/default-router-ip-database/main/data/routers.json \
   | jq '.[] | select(.default_ip=="192.168.50.1") | {brand: .brand, model: .model, pass: .default_password}'
 ```
 
