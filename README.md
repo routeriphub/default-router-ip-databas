@@ -62,13 +62,13 @@ Filter the raw JSON dataset directly from your command line:
 ```bash
 # Query all ASUS gaming models and their default passwords
 curl -s https://raw.githubusercontent.com/routeriphub/default-router-ip-database/main/data/routers.json \
-  | jq '.[] | select(.brand=="ASUS") | {model: .model, ip: .default_ip, pass: .default_password}'
+  | jq '.[] | select(.brand=="ASUS") | {model: .model_name, ip: .default_ip, pass: .default_password}'
 ```
 
 ```bash
 # Find which hardware runs on 192.168.50.1
 curl -s https://raw.githubusercontent.com/routeriphub/default-router-ip-database/main/data/routers.json \
-  | jq '.[] | select(.default_ip=="192.168.50.1") | {brand: .brand, model: .model, pass: .default_password}'
+  | jq '.[] | select(.default_ip=="192.168.50.1") | {brand: .brand, model: .model_name, pass: .default_password}'
 ```
 
 ---
