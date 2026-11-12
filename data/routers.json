@@ -7599,7 +7599,7 @@
     "slug": "synology-rt6600ax",
     "brand": "Synology",
     "brand_slug": "synology",
-    "model_name": "Synology RT6600ax",
+    "model_name": "RT6600ax",
     "hardware_type": "Tri-Band Wi-Fi 6 Router",
     "default_ip": "192.168.1.1",
     "web_domain": "http://router.synology.com",
@@ -7639,7 +7639,7 @@
     "slug": "synology-rt2600ac",
     "brand": "Synology",
     "brand_slug": "synology",
-    "model_name": "Synology RT2600ac",
+    "model_name": "RT2600ac",
     "hardware_type": "Dual-Band AC2600 Router",
     "default_ip": "192.168.1.1",
     "web_domain": "http://router.synology.com",
@@ -7679,7 +7679,7 @@
     "slug": "synology-wrx560",
     "brand": "Synology",
     "brand_slug": "synology",
-    "model_name": "Synology WRX560",
+    "model_name": "WRX560",
     "hardware_type": "Dual-Band Wi-Fi 6 Mesh",
     "default_ip": "192.168.1.1",
     "web_domain": "http://router.synology.com",
@@ -7719,7 +7719,7 @@
     "slug": "synology-mr2200ac",
     "brand": "Synology",
     "brand_slug": "synology",
-    "model_name": "Synology MR2200ac",
+    "model_name": "MR2200ac",
     "hardware_type": "Tri-Band AC2200 Mesh",
     "default_ip": "192.168.1.1",
     "web_domain": "http://router.synology.com",
@@ -7759,7 +7759,7 @@
     "slug": "synology-rt1900ac",
     "brand": "Synology",
     "brand_slug": "synology",
-    "model_name": "Synology RT1900ac",
+    "model_name": "RT1900ac",
     "hardware_type": "First-Gen SRM Router",
     "default_ip": "192.168.1.1",
     "web_domain": "http://router.synology.com",
@@ -7799,7 +7799,7 @@
     "slug": "synology-ds-gateway",
     "brand": "Synology",
     "brand_slug": "synology",
-    "model_name": "Synology DS-Gateway",
+    "model_name": "DS-Gateway",
     "hardware_type": "Modular SRM Network Controller",
     "default_ip": "192.168.1.1",
     "web_domain": "http://router.synology.com",
@@ -11070,5 +11070,51 @@
     "companion_app_store_url": "https://apps.apple.com/app/surfboard-central/id1454519659",
     "official_manual_url": "https://www.surfboard.com/support/",
     "notes": "Standalone high-power router with 4 external antennas and USB 3.0 file sharing."
+  },
+  {
+    "slug": "pldt",
+    "brand": "PLDT",
+    "brand_slug": "pldt",
+    "model_name": "Default Router Login (Home WiFi & Fiber)",
+    "hardware_type": "Home Wi-Fi & Fiber Gateway",
+    "default_ip": "192.168.1.1",
+    "web_domain": "https://192.168.1.1",
+    "fallback_ip": "192.168.1.253",
+    "default_username": "admin",
+    "default_password": "1234",
+    "password_on_sticker": false,
+    "default_ssid_pattern": "PLDT_Home_XXXXX / PLDT_HomeFiber_XXXXX",
+    "wifi_standard": "Wi-Fi 6 / Wi-Fi 5",
+    "reset_instructions": "Check your exact model recovery procedure before resetting. Hold the rear recessed reset button for 10-15 seconds until the status LEDs blink. Release and wait 3-5 minutes for the gateway to restore factory defaults.",
+    "led_indicators": [
+      {
+        "name": "Power",
+        "normal": "Solid Green",
+        "error": "Off / Red (No Power)",
+        "desc": "Indicates power connection to the gateway."
+      },
+      {
+        "name": "PON / Optical",
+        "normal": "Solid Green",
+        "error": "Blinking Green / Red (Loss of Optical Signal)",
+        "desc": "Optical network connection to PLDT fiber network."
+      },
+      {
+        "name": "LAN 1-4",
+        "normal": "Solid or Blinking Green",
+        "error": "Off (No physical Ethernet cable connected)",
+        "desc": "Ethernet link to connected computer or switch."
+      },
+      {
+        "name": "WLAN (2.4G/5G)",
+        "normal": "Blinking Green",
+        "error": "Off (Wi-Fi radio disabled)",
+        "desc": "Wireless network transmission indicator."
+      }
+    ],
+    "mobile_app": "PLDT Home App",
+    "companion_app_store_url": "https://apps.apple.com/app/pldt-home/id1524316135",
+    "official_manual_url": "https://pldthome.com/support",
+    "notes": "Standard default credentials are admin / 1234 at https://192.168.1.1. PLDT Prolink repeaters use 192.168.1.253."
   }
 ]
